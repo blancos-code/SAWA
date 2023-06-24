@@ -23,22 +23,26 @@ SAWA is a Sentiment Analysis Web Application built using Flask, Python, HTML, CS
 ### Installation
 
 1. Clone the repository:
+<pre>
 git clone https://github.com/blancos-code/SAWA.git
-cd sentiment-analysis-webapp
-
+cd SAWA
+</pre>
 
 2. (Optional) Create and activate a virtual environment:
+<pre>
 python -m venv myenv
 source myenv/bin/activate # On Windows, use myenv\Scripts\activate
-
+</pre>
 
 3. Install the required packages:
+<pre>
 pip install Flask textblob SQLAlchemy
-
+</pre>
 
 4. Run the Flask application:
+<pre>
 python app.py
-
+</pre>
 
 
 5. Visit `http://127.0.0.1:5000` in your web browser to see the application.
