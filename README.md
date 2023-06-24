@@ -23,7 +23,7 @@ SAWA is a Sentiment Analysis Web Application built using Flask, Python, HTML, CS
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/sentiment-analysis-webapp.git
+git clone https://github.com/blancos-code/SAWA.git
 cd sentiment-analysis-webapp
 
 
